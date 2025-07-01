@@ -173,6 +173,11 @@ main img {
         }
 footer a {
     color: white;
+
 font-weight: bolder;
-text-decoration: none;
+text-decoration: none;;
 }
+
+    footer >p{
+        font-size: 20px;
+    }
